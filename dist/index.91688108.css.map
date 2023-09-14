@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;;;AASA","sources":["src/assets/css/styles.css"],"sourcesContent":["* {\n    margin: 0;\n    padding: 0;\n    background: black;\n    display: grid;\n    place-content: center;\n    \n}\n\nspan {\n    color: white;\n}"],"names":[],"version":3,"file":"index.91688108.css.map","sourceRoot":"/__parcel_source_root/"}
